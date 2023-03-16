@@ -2,6 +2,8 @@ package org.javacs.lsp;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonElement;
+
+import javax.swing.*;
 import java.io.*;
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
